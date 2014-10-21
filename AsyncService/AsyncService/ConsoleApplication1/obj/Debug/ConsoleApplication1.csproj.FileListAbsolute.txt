@@ -1,0 +1,6 @@
+C:\Users\maxim.APPCHI\Dropbox\Project\AsyncService\AsyncService\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\maxim.APPCHI\Dropbox\Project\AsyncService\AsyncService\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\maxim.APPCHI\Dropbox\Project\AsyncService\AsyncService\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\maxim.APPCHI\Dropbox\Project\AsyncService\AsyncService\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\maxim.APPCHI\Dropbox\Project\AsyncService\AsyncService\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\maxim.APPCHI\Dropbox\Project\AsyncService\AsyncService\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
